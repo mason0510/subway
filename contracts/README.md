@@ -44,5 +44,5 @@ yarn
 
 # run the tests (requires a Ethereum Node)
 # use Infura as last resort
-dapp test --rpc-url $RPC_URL --verbosity 2 --ffi
+dapp clip --rpc-url $RPC_URL --verbosity 2 --ffi
 ```
